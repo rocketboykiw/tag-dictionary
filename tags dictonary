@@ -1,0 +1,59 @@
+a: Link tag, used for embeding links in text.
+attributes: href
+example: A great <a href="https://www.youtube.com/">website</a>
+
+h1: Header tag, used to enlarge text and separate it from the rest of the text.
+attributes: none
+examples: <h1>Christopher Stenhouse</h1>
+
+h2-6: Header tag, same as h1 but the smaller number the smaller the text.
+attributes: none
+examples: <h2>Things I like:</h2>
+
+img: Image tool, used for inserting images.
+attributes: src
+examples: <img src="syndicalism.jpg">
+
+li: Used inside of ol or ul tags to make a list of separated items.
+attributes: none
+examples:<li>Blacksmithing</li>
+
+ol: Used to create numbered lists
+attributes: none
+examples: <ol>
+<li>Hypocracy</li>
+<li>Weakness</li>
+<li>Degeneracy</li>
+</ol>
+
+p: Used to create a paragraph block, separates text from other text.
+attributes: none
+examples: <p> This is a great example. </p>
+
+ul: Used to create unordered, bullet poin lists.
+attributes: none
+examples: <ul>
+<li>Blacksmithing</li>
+<li>Historical weapons and armour</li>
+<li>Intelligent discussion</li>
+</ul>
+
+<!DOCTYPE html>  select the version of html
+attributes: html
+example <!DOCTYPE html> 
+
+<body>  cotains the content of the website
+attributes : none 
+example <body> hiiiiiii</body>
+
+<head> things for your browser to think about
+attributes none
+example <head> website</head>
+
+<html> marks beginning and end of html code
+attributes:none
+examples <html>fyfgfgghjf</html>
+
+<title> controles the tab name 
+attributes: none
+examples <title> website <title>
